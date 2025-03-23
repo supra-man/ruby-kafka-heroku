@@ -1,6 +1,6 @@
 # SETUP KAFKA IN HEROKU USING RUBY
 
-
+This repo is to help developers implement kafka in an application deployed in kafka using ```rdkafka-ruby``` gem.
 ### STEP 1:
 Add the kafka.rb files in ```config/initializers```
 
