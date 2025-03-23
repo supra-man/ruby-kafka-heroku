@@ -1,4 +1,4 @@
-require 'rdkafka'
+require 'rdkafka' # gem 'rdkafka-ruby'
 require 'tempfile'
 
 if Rails.env.development?
